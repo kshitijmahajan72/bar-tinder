@@ -1,0 +1,21 @@
+.profile{
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+}
+.image{
+    
+    position: relative;
+    width: auto;
+    height:100px;
+    border-radius: 50px;
+
+}
+.name{
+    font-weight: bold;
+}
+.profile_details{
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+}
